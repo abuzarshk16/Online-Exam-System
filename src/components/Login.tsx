@@ -67,7 +67,7 @@ export const Login: React.FC<LoginProps> = ({ users, onLoginSuccess }) => {
           <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold text-xl">E</div>
         </div>
         <h2 className="text-center text-xl font-bold tracking-tight text-slate-800">
-          Aegis Assess Portal
+          Online Exam Portal
         </h2>
         <p className="mt-1.5 text-center text-[10px] font-bold text-slate-400 uppercase tracking-widest">
           Secure Examination & Analytics System
