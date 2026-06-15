@@ -1,0 +1,6 @@
+{
+  "name": "Online Exam System",
+  "description": "A comprehensive cloud-based assessment platform featuring dedicated dashboards for Admins, Teachers, and Students, complete with role-based features, exam building, automated grading, subjective sheet reviews, and visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
